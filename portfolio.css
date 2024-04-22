@@ -22,7 +22,10 @@ body {
   color: #272142;
 }
 h1 {
+  color: black;
+  font-family: var(--heading-font-family);
   font-size: 96px;
+  font-weight: bold;
 }
 .hero h2 {
   font-family: var(--heading-font-family);
