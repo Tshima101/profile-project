@@ -60,3 +60,13 @@ p {
 .project-desciption {
   padding: 120px 60px;
 }
+
+h2 {
+  font-size: 64px;
+}
+
+p {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+}
