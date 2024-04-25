@@ -125,7 +125,7 @@ img {
   display: flex;
   justify-content: center;
   color: var(--branding-color);
-  font-size: 28px;
+  font-size: 20px;
   text-decoration: none;
 }
 
@@ -133,16 +133,11 @@ img {
   text-decoration: underline;
 }
 
-.col-sm-4 {
-  flex: 0 0 auto;
-  width: 33%;
-}
-
 footer {
-  background: rgb(237, 167, 221);
-  padding: 20px;
-  border-radius: 4px;
-  margin: 60px 0;
+  background: rgb(243, 207, 234);
+  padding: 50px;
+  border-radius: 20px;
+  margin: 20px 0;
 }
 
 footer .social-links a {
