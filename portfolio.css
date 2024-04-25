@@ -117,8 +117,8 @@ p {
 }
 
 img {
-  width: 400px;
-  height: auto;
+  width: auto;
+  height: 500px;
 }
 
 .email-link {
