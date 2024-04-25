@@ -134,10 +134,10 @@ img {
 }
 
 footer {
-  background: rgb(243, 207, 234);
-  padding: 50px;
-  border-radius: 20px;
-  margin: 20px 0;
+  background: rgb(251, 234, 247);
+  padding: 20px 35px;
+  border-radius: 50px;
+  margin: 10px;
 }
 
 footer .social-links a {
